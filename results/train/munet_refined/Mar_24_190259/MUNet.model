@@ -1,0 +1,4 @@
+MUNet
+channels=[64, 64, 128, 128]
+refinement=True
+d_attention=64
